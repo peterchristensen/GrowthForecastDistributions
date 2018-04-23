@@ -11,12 +11,12 @@ NOTE: Pathnames must be changed in all files.
 
 Notes:
 
-    Expert names are anonymized. Expert vector refers to individuals.
-    Period codes indicate 40-year or 90-year forecast horizon.
+   - Expert names are anonymized. Expert vector refers to individuals.
+   - Period codes indicate 40-year or 90-year forecast horizon.
 
 (2) To recover the mean and sigma of expert forecast distributions (reported in Table 1): run matlab script: FindNormalParameters.
 
 Notes:
 
-    This program computes the mean and sigma for expert forecasts by region and horizon.
-    Pathnames must be changed. Mean [column 10] and Sigma [column 11] contained in output file (estimatedparameters).
+   - This program computes the mean and sigma for expert forecasts by region and horizon.
+   - Pathnames must be changed. Mean [column 10] and Sigma [column 11] contained in output file (estimatedparameters).
